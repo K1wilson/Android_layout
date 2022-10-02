@@ -1,7 +1,8 @@
-package com.example.android_layout
+package com.example.question_1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.android_layout.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

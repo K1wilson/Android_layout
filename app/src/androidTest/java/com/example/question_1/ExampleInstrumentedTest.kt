@@ -1,4 +1,4 @@
-package com.example.android_layout
+package com.example.question_1
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
